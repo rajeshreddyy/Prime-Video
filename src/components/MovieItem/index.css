@@ -1,0 +1,11 @@
+/* Write your CSS here */
+
+.thumbnail-url {
+  list-style: none;
+  border-radius: 15px;
+}
+
+.movie-item-container {
+  margin: 10px;
+  cursor: pointer;
+}

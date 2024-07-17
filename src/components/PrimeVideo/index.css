@@ -1,0 +1,24 @@
+/* Write your CSS here */
+
+* {
+  margin: 0;
+  color: #ffffff;
+}
+
+.movies-container {
+  background-color: #000000;
+  padding-bottom: 10px;
+}
+
+.prime-video-img {
+  width: 100%;
+}
+
+.action-movies {
+  padding-left: 50px;
+  padding-top: 20px;
+}
+
+.comdey-movies {
+  padding-left: 50px;
+}
